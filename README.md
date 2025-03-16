@@ -104,5 +104,5 @@ This plugin is released under the GNU General Public License v2 or later (GPL-2.
 You are free to use, modify, and distribute this plugin as long as you adhere to the terms of the license.
 
 Thank you for using the OpenRouter Chat Plugin! We hope it enhances your WordPress site and provides a seamless 
-AI-powered chat experience for your users. If you find this plugin helpful, please consider leaving a review or sharing it with others. ðŸ˜Š
+AI-powered chat experience for your users. If you find this plugin helpful, please consider leaving a review
 
