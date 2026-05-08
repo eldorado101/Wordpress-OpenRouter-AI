@@ -1,4 +1,5 @@
 OpenRouter Chat Plugin for WordPress
+Dveloped by Dwight Bedsaul
 
 Overview
 The OpenRouter Chat Plugin integrates the OpenRouter API with your WordPress site, 
@@ -105,4 +106,4 @@ You are free to use, modify, and distribute this plugin as long as you adhere to
 
 Thank you for using the OpenRouter Chat Plugin! We hope it enhances your WordPress site and provides a seamless 
 AI-powered chat experience for your users. If you find this plugin helpful, please consider leaving a review
-
+This was a fun project deeloped by Dwight Bedsaul
