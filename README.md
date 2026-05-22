@@ -1,8 +1,7 @@
 OpenRouter Chat Plugin for WordPress
-Dveloped by Dwight Bedsaul
 
 Overview
-The OpenRouter Chat Plugin integrates the OpenRouter API with your WordPress site, 
+The OpenRouter Chat Plugin integrates the OpenRouter API with your WordPress site by Dwight Bedsaul,
 allowing users to interact with AI models like Qwen (qwen/qwq-32b:free) through a chat interface. 
 The plugin provides a shortcode [openrouter_chat] to embed the chat functionality 
 anywhere on your site, such as posts, pages, or widgets.
